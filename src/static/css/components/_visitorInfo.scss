@@ -1,0 +1,29 @@
+.visitor-info {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  &__data {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    img {
+      height: 12em;
+      width: auto;
+      text-align: center;
+      padding: 0.9em;
+    }
+    p {
+      font-weight: normal;
+    }
+    h4 {
+      text-align: center;
+    }
+  }
+}
+
+.loading-img {
+  margin-left: 20em;
+}

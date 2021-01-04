@@ -1,0 +1,49 @@
+{
+  "name": "shubham-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.8",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.6.0",
+    "dayjs": "^1.10.1",
+    "node-sass": "^4.14.1",
+    "raw.macro": "^0.4.2",
+    "react": "^17.0.1",
+    "react-burger-menu": "^3.0.2",
+    "react-dom": "^17.0.1",
+    "react-feather": "^2.0.9",
+    "react-ga": "^3.3.0",
+    "react-helmet": "^6.1.0",
+    "react-markdown": "^5.0.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-tooltip": "^4.2.11",
+    "sass-loader": "^10.1.0",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
